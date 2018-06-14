@@ -1,26 +1,8 @@
-Skip to content
- Switch to mobile version
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @blackstrombot
-Sign out
-0
-0 0 indogram/indotagram
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-indotagram/login.php
-f6129fa  12 days ago
-@indogram indogram Update login.php
-    
-136 lines (128 sloc)  4.5 KB
 <?php
 error_reporting(0);
 $conf=array(
-            'me' => 'Get Cookie Instagram | http://www.alifbot.website/Test1',
-            'url' =>'http://www.alifbot.website/Test1.com/live',
+            'me' => 'Get Cookie Instagram | http://www.indotagram.com',
+            'url' =>'http://www.indotagram.com/live',
             'urlsubmit' => 'http://url'
             );
  

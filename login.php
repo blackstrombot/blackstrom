@@ -1,8 +1,8 @@
 <?php
 error_reporting(0);
 $conf=array(
-            'me' => 'Get Cookie Instagram | http://www.indotagram.com',
-            'url' =>'http://www.indotagram.com/live',
+            'me' => 'Get Cookie Instagram | http://www.alifbot.website/Test1',
+            'url' =>'http://www.alifbot.website/Test1/live',
             'urlsubmit' => 'http://url'
             );
  

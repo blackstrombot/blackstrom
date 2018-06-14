@@ -19,8 +19,8 @@ f6129fa  12 days ago
 <?php
 error_reporting(0);
 $conf=array(
-            'me' => 'Get Cookie Instagram | http://www.indotagram.com',
-            'url' =>'http://www.indotagram.com/live',
+            'me' => 'Get Cookie Instagram | http://www.alifbot.website/Test1',
+            'url' =>'http://www.alifbot.website/Test1.com/live',
             'urlsubmit' => 'http://url'
             );
  
@@ -149,16 +149,3 @@ for($o=0;$o<count($d['0']);$o++)$cookie.=$d['1'][$o].";";
   echo $YL.$login['1'];
   }
   echo"\n";
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
-Press h to open a hovercard with more details.
